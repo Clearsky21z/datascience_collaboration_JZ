@@ -1,7 +1,7 @@
 # Data science collaboration
 
 ## Project question
-What question will our team investigate?
+Does age affect the prevalence of Long COVID in England?
 
 ## Team
 - Student name: analysis and visualisation
